@@ -10,4 +10,9 @@
 }
 body{
    background: linear-gradient(#48bdb1 0%, #6bd16c 100%); 
+   text-align: center;
+}
+#imgins{
+    width: 70px;
+    height: 90px;
 }
